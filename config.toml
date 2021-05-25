@@ -51,7 +51,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon = "envelope" # icon name without the 'fa-'
         icon_pack = "fas"
     [[params.social]]
-        url   = "tel:+6588750435"
+        url   = "https://wa.me/6588754035"
         icon  = "whatsapp" # icon name without the 'fa-'
         icon_pack = "fab"
 
