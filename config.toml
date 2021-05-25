@@ -1,0 +1,5 @@
+baseURL                          = "https://rivervale.town/"   # Your domain name. Must end with "/"
+languageCode                     = "en-gb"
+title                            = "Rivervale"
+theme                            = "introduction"
+DefaultContentLanguage           = "en"                    # Default language for multilingual sites
