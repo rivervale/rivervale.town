@@ -1,5 +1,5 @@
 ---
-title: "MPS"
+title: "Suspension of in-person Meet the People sessions"
 weight: 0
 ---
 Dear residents of Rivervale,
