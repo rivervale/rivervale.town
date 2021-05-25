@@ -1,6 +1,5 @@
 ---
 title: "MPS"
-draft: false
 weight: 0
 ---
 Dear residents of Rivervale,
