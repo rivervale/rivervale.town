@@ -18,4 +18,4 @@ In addition, please email [khengwee.chua@wp.sg](mailto:khengwee.chua@wp.sg) or W
 
 如果您需要我们的协助，请您把个人资料和您所需要协助的事宜填入以下网址：[go.rivervale.town/mps](https://go.rivervale.town/mps) 或扫以下的QR码，我们将竭尽所能协助您。  另外，请把有关的资料和支持文件，如政府部门的参考编号发送至 [khengwee.chua@wp.sg](mailto:khengwee.chua@wp.sg) 或我们的WhatsApp [8875 4035](https://wa.me/6588754035)。  您的健康和安全，是我们的首要考量。谢谢。
 
-![MPS QR code](mps_qr_code.png)
+[![MPS QR code](mps_qr_code.png "Link to Rivervale MPS registration form")](https://go.rivervale.town/mps)
